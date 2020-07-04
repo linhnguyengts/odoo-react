@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/odoo-react/static/css/main.51533666.chunk.css",
+    "main.js": "/odoo-react/static/js/main.4067b74d.chunk.js",
+    "main.js.map": "/odoo-react/static/js/main.4067b74d.chunk.js.map",
+    "runtime-main.js": "/odoo-react/static/js/runtime-main.d7f60a95.js",
+    "runtime-main.js.map": "/odoo-react/static/js/runtime-main.d7f60a95.js.map",
+    "static/css/2.d34346ea.chunk.css": "/odoo-react/static/css/2.d34346ea.chunk.css",
+    "static/js/2.b2695b5c.chunk.js": "/odoo-react/static/js/2.b2695b5c.chunk.js",
+    "static/js/2.b2695b5c.chunk.js.map": "/odoo-react/static/js/2.b2695b5c.chunk.js.map",
+    "index.html": "/odoo-react/index.html",
+    "precache-manifest.5629d32f81842e70a6d64998e27ccb93.js": "/odoo-react/precache-manifest.5629d32f81842e70a6d64998e27ccb93.js",
+    "service-worker.js": "/odoo-react/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/odoo-react/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.51533666.chunk.css.map": "/odoo-react/static/css/main.51533666.chunk.css.map",
+    "static/js/2.b2695b5c.chunk.js.LICENSE.txt": "/odoo-react/static/js/2.b2695b5c.chunk.js.LICENSE.txt",
+    "static/media/404.gif": "/odoo-react/static/media/404.a8121abe.gif",
+    "static/media/index.scss": "/odoo-react/static/media/zw.98a0162e.svg",
+    "static/media/man.jpg": "/odoo-react/static/media/man.17620748.jpg",
+    "static/media/stats.png": "/odoo-react/static/media/stats.74470331.png",
+    "static/media/user3.jpg": "/odoo-react/static/media/user3.bd780a29.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7f60a95.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.b2695b5c.chunk.js",
+    "static/css/main.51533666.chunk.css",
+    "static/js/main.4067b74d.chunk.js"
+  ]
+}
