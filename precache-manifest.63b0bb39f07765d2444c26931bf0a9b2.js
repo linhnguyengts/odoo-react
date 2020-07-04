@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97711e0b2f86831c6c89fc2c61125e72",
+    "revision": "04e9cc034fdebfb86d95d21ace63b5f6",
     "url": "/odoo-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/odoo-react/static/css/2.d34346ea.chunk.css"
   },
   {
-    "revision": "dd0d7252d0f5b2dc444b",
+    "revision": "8156fc6b3ed0aeeb5b85",
     "url": "/odoo-react/static/css/main.51533666.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/odoo-react/static/js/2.b2695b5c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd0d7252d0f5b2dc444b",
-    "url": "/odoo-react/static/js/main.4067b74d.chunk.js"
+    "revision": "8156fc6b3ed0aeeb5b85",
+    "url": "/odoo-react/static/js/main.ba5878c5.chunk.js"
   },
   {
     "revision": "05e526a417acc71aeeca",
