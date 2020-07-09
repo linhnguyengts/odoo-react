@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/odoo-react/static/css/main.51533666.chunk.css",
-    "main.js": "/odoo-react/static/js/main.998ce2bb.chunk.js",
-    "main.js.map": "/odoo-react/static/js/main.998ce2bb.chunk.js.map",
+    "main.js": "/odoo-react/static/js/main.62464277.chunk.js",
+    "main.js.map": "/odoo-react/static/js/main.62464277.chunk.js.map",
     "runtime-main.js": "/odoo-react/static/js/runtime-main.d7f60a95.js",
     "runtime-main.js.map": "/odoo-react/static/js/runtime-main.d7f60a95.js.map",
     "static/css/2.d34346ea.chunk.css": "/odoo-react/static/css/2.d34346ea.chunk.css",
     "static/js/2.b2695b5c.chunk.js": "/odoo-react/static/js/2.b2695b5c.chunk.js",
     "static/js/2.b2695b5c.chunk.js.map": "/odoo-react/static/js/2.b2695b5c.chunk.js.map",
     "index.html": "/odoo-react/index.html",
-    "precache-manifest.34070c7bd91718b0d7ea55f1735a531e.js": "/odoo-react/precache-manifest.34070c7bd91718b0d7ea55f1735a531e.js",
+    "precache-manifest.978dc1f16fbacf3f65d63511886235ca.js": "/odoo-react/precache-manifest.978dc1f16fbacf3f65d63511886235ca.js",
     "service-worker.js": "/odoo-react/service-worker.js",
     "static/css/2.d34346ea.chunk.css.map": "/odoo-react/static/css/2.d34346ea.chunk.css.map",
     "static/css/main.51533666.chunk.css.map": "/odoo-react/static/css/main.51533666.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.d34346ea.chunk.css",
     "static/js/2.b2695b5c.chunk.js",
     "static/css/main.51533666.chunk.css",
-    "static/js/main.998ce2bb.chunk.js"
+    "static/js/main.62464277.chunk.js"
   ]
 }
