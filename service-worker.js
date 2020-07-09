@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/odoo-react/precache-manifest.632c5ceaaf01c50384fd5f6905f3e3ad.js"
+  "/odoo-react/precache-manifest.34070c7bd91718b0d7ea55f1735a531e.js"
 );
 
 self.addEventListener('message', (event) => {
